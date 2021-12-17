@@ -1,7 +1,4 @@
-# iEMB-dark-theme
-Dark theme for iEMB
-
-## Instructions
+# Instructions
 1. Click here to go to the [chrome webstore](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) and install the Tampermonkey chrome extension
 2. Click on the Tampermonkey icon
 3. Click "Create a new script..."
