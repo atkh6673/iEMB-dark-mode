@@ -5,3 +5,9 @@
 4. Delete everything inside to leave you with nothing
 5. Copy and paste the code in [script.js](script.js)
 6. Installation is complete and you can now enjoy dark mode
+
+
+## Limitations
+* Works only on Google Chrome
+* Does not work without Tampermonkey chrome extension or other userscript managers
+* Client-side code
