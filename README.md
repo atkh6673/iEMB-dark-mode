@@ -13,10 +13,10 @@
 * Search feature does not work
 
 # Changelog
-v1.0: 
+## v1.0: 
 * Initial release
 
-v1.1: 
+## v1.1: 
 * Completed styles
 * Changed login page colour
 * Resolved school logo not loading
