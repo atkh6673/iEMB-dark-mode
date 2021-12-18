@@ -7,7 +7,15 @@
 6. Installation is complete and you can now enjoy dark mode
 
 
-## Limitations
+# Limitations
 * Works only on Google Chrome
 * Does not work without Tampermonkey chrome extension or other userscript managers
-* Client-side code
+* Search feature does not work
+
+# Changelog
+v1.0: 
+* Initial release
+v1.1: 
+* Completed styles
+* Changed login page colour
+* Resolved school logo not loading
