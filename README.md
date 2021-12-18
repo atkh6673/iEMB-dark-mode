@@ -15,6 +15,7 @@
 # Changelog
 v1.0: 
 * Initial release
+
 v1.1: 
 * Completed styles
 * Changed login page colour
